@@ -6,10 +6,10 @@ repos which may be utilized some day
 - [`incubator-echarts`: A powerful, interactive charting and visualization library for browser](https://github.com/apache/incubator-echarts)
 ## Computer Networks
 - [`portus`: A congestion control plane.](https://github.com/ccp-project/portus)
+- [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
 ## Design Patterns
 - [`Design-Patterns-GoF`: Working code for the Design Patterns book from the Gang of Four](https://github.com/BartVandewoestyne/Design-Patterns-GoF)
 - [`java-design-pattern`: Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
-- [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
 ## Big Data
 - [`tfrl`: TensorFlow Reinforcement Learning](https://github.com/deepmind/trfl)
 - [`baselines`: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
