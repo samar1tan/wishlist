@@ -1,5 +1,7 @@
 # wishlist
 materials, like repos and papers, which may be utilized some day
+## Papers
+- [Non-delusional Q-learning and value iteration](papers/)
 ## Undergraduate-related
 - [`json-tutorial`: 从零开始的 JSON 库教程](https://github.com/miloyip/json-tutorial)
 - [`mapv`: a library of geography visualization-地理信息可视化库](https://github.com/huiyan-fe/mapv)
