@@ -6,6 +6,7 @@ to collect materials, like repos and papers, which may be utilized some day
 - [`json-tutorial`: 从零开始的 JSON 库教程](https://github.com/miloyip/json-tutorial)
 - [`mapv`: a library of geography visualization-地理信息可视化库](https://github.com/huiyan-fe/mapv)
 - [`incubator-echarts`: A powerful, interactive charting and visualization library for browser](https://github.com/apache/incubator-echarts)
+- [`Note-by-LaTeX`: 中文 LaTeX 手册 - 简单粗暴 LaTeX。A LaTeX manual written by me to help more Chinese LaTeX learners: A concise handbook of LaTeX.](https://github.com/wklchris/Note-by-LaTeX)
 ## Computer Networks
 - [`portus`: A congestion control plane.](https://github.com/ccp-project/portus)
 - [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
