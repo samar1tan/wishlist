@@ -1,5 +1,5 @@
 # wishlist
-to collect materials, like repos and papers, which may be utilized some day
+collect materials, like repos and papers, which may be utilized some day
 ## Papers
 - [Non-delusional Q-learning and value iteration](papers/nondelusionalQ_nips18.pdf)
 ## Undergraduate-related
