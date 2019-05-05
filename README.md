@@ -1,7 +1,7 @@
 # wishlist
 collect materials, like repos and papers, which may be utilized some day
 ## Papers
-- [Non-delusional Q-learning and value iteration](papers/nondelusionalQ_nips18.pdf)
+- [Non-delusional Q-learning and Value Iteration](papers/nondelusionalQ_nips18.pdf)
 - [Reinforcement Learning, Fast and Slow](papers/Reinforcement_Learning_Fast_and_Slow.pdf)
 ## Undergraduate-related
 - [`json-tutorial`: 从零开始的 JSON 库教程](https://github.com/miloyip/json-tutorial)
