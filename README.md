@@ -27,6 +27,7 @@ collect materials, like repos and papers, which may be utilized some day
 - [`docz`: ✍🏻It has never been so easy to document your things!](https://github.com/pedronauck/docz)
 - [`carbon` : 🎨 Create and share beautiful images of your source code](https://github.com/dawnlabs/carbon)
 - [`docker_practice`: Learn and understand Docker technologies, with real DevOps practice! ](https://github.com/yeasy/docker_practice)
+- [`visualvm`: VisualVM is an All-in-One Java Troubleshooting To.](https://github.com/oracle/visualvm)
 ## Comprehensive Learning Resources
 - [`free-programming-books`: 📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [`awesome-education`: 学生福利-收集支持教育优惠的软件与服务](https://github.com/wowlusitong/awesome-education)
