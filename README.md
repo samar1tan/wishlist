@@ -9,6 +9,7 @@ collect materials, like repos and papers, which may be utilized some day
 - [`incubator-echarts`: A powerful, interactive charting and visualization library for browser](https://github.com/apache/incubator-echarts)
 - [`Note-by-LaTeX`: 中文 LaTeX 手册 - 简单粗暴 LaTeX。A LaTeX manual written by me to help more Chinese LaTeX learners: A concise handbook of LaTeX.](https://github.com/wklchris/Note-by-LaTeX)
 - [`reveal.js`: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+- [`microui`: Tiny immediate-mode UI library](https://github.com/rxi/microui)
 ## Mathematics
 - [`sympy`: A computer algebra system written in pure Python](https://www.sympy.org/en/index.html)
 ## Computer Networks
