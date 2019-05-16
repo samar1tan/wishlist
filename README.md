@@ -34,3 +34,4 @@ collect materials, like repos and papers, which may be utilized some day
 ## Comprehensive Learning Resources
 - [`free-programming-books`: 📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [`awesome-education`: 学生福利-收集支持教育优惠的软件与服务](https://github.com/wowlusitong/awesome-education)
+- [`app-ideas`: A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
