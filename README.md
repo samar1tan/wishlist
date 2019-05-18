@@ -4,11 +4,7 @@ collect materials, like repos and papers, which may be utilized some day
 - [*Non-delusional Q-learning and Value Iteration*](papers/nondelusionalQ_nips18.pdf)
 - [*Reinforcement Learning, Fast and Slow*](papers/Reinforcement_Learning_Fast_and_Slow.pdf)
 ## Undergraduate-related
-- [`json-tutorial`: 从零开始的 JSON 库教程](https://github.com/miloyip/json-tutorial)
-- [`mapv`: a library of geography visualization-地理信息可视化库](https://github.com/huiyan-fe/mapv)
-- [`incubator-echarts`: A powerful, interactive charting and visualization library for browser](https://github.com/apache/incubator-echarts)
 - [`Note-by-LaTeX`: 中文 LaTeX 手册 - 简单粗暴 LaTeX。A LaTeX manual written by me to help more Chinese LaTeX learners: A concise handbook of LaTeX.](https://github.com/wklchris/Note-by-LaTeX)
-- [`reveal.js`: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
 - [`imgui`: Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 ](https://github.com/ocornut/imgui)
 ## Mathematics
