@@ -4,7 +4,7 @@ collect materials, like repos and papers, which may be utilized some day
 - [*Non-delusional Q-learning and Value Iteration*](papers/nondelusionalQ_nips18.pdf)
 - [*Reinforcement Learning, Fast and Slow*](papers/Reinforcement_Learning_Fast_and_Slow.pdf)
 ## *Curiosity*
--[`Learning-SICP`: MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集](https://github.com/DeathKing/Learning-SICP)
+- [`Learning-SICP`: MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集](https://github.com/DeathKing/Learning-SICP)
 ## *Facade*
 - [`Note-by-LaTeX`: 中文 LaTeX 手册 - 简单粗暴 LaTeX。A LaTeX manual written by me to help more Chinese LaTeX learners: A concise handbook of LaTeX.](https://github.com/wklchris/Note-by-LaTeX)
 - [`imgui`: Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
