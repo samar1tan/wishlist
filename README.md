@@ -15,6 +15,7 @@ collect materials, like repos and papers, which may be utilized some day
 ## Computer Networks
 - [`portus`: A congestion control plane.](https://github.com/ccp-project/portus)
 - [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
+- [`oragono`: A modern IRC server (daemon/ircd) written in Go](https://github.com/oragono/oragono)
 ## Big Data
 - [`tfrl`: TensorFlow Reinforcement Learning](https://github.com/deepmind/trfl)
 - [`baselines`: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
