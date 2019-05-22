@@ -15,9 +15,6 @@ collect materials, like repos and papers, which may be utilized some day
 ## Computer Networks
 - [`portus`: A congestion control plane.](https://github.com/ccp-project/portus)
 - [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
-## Design Patterns
-- [`Design-Patterns-GoF`: Working code for the Design Patterns book from the Gang of Four](https://github.com/BartVandewoestyne/Design-Patterns-GoF)
-- [`java-design-pattern`: Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 ## Big Data
 - [`tfrl`: TensorFlow Reinforcement Learning](https://github.com/deepmind/trfl)
 - [`baselines`: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
@@ -29,7 +26,6 @@ collect materials, like repos and papers, which may be utilized some day
 - [`docz`: ✍🏻It has never been so easy to document your things!](https://github.com/pedronauck/docz)
 - [`carbon` : 🎨 Create and share beautiful images of your source code](https://github.com/dawnlabs/carbon)
 - [`docker_practice`: Learn and understand Docker technologies, with real DevOps practice! ](https://github.com/yeasy/docker_practice)
-- [`visualvm`: VisualVM is an All-in-One Java Troubleshooting To.](https://github.com/oracle/visualvm)
 ## Comprehensive Learning Resources
 - [`free-programming-books`: 📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [`awesome-education`: 学生福利-收集支持教育优惠的软件与服务](https://github.com/wowlusitong/awesome-education)
