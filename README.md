@@ -18,15 +18,12 @@ collect materials, like repos and papers, which may be utilized some day
 - [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
 - [`oragono`: A modern IRC server (daemon/ircd) written in Go](https://github.com/oragono/oragono)
 ## Big Data
-- [`tfrl`: TensorFlow Reinforcement Learning](https://github.com/deepmind/trfl)
-- [`baselines`: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
 - [`awesome-spider`: 爬虫集合](https://github.com/facert/awesome-spider)
 - [`PlotNeuralNet`: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [`julia`: The Julia Language: A fresh approach to technical computing. ](https://github.com/JuliaLang/julia)
 ## Dev Tools
 - [`yarn`: 📦🐈 Fast, reliable, and secure dependency management.](https://github.com/yarnpkg/yarn)
 - [`docz`: ✍🏻It has never been so easy to document your things!](https://github.com/pedronauck/docz)
-- [`carbon` : 🎨 Create and share beautiful images of your source code](https://github.com/dawnlabs/carbon)
 - [`docker_practice`: Learn and understand Docker technologies, with real DevOps practice! ](https://github.com/yeasy/docker_practice)
 ## Comprehensive Learning Resources
 - [`free-programming-books`: 📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
