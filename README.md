@@ -20,7 +20,6 @@ collect materials, like repos and papers, which may be utilized some day
 ## Big Data
 - [`awesome-spider`: 爬虫集合](https://github.com/facert/awesome-spider)
 - [`PlotNeuralNet`: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
-- [`julia`: The Julia Language: A fresh approach to technical computing. ](https://github.com/JuliaLang/julia)
 ## Dev Tools
 - [`yarn`: 📦🐈 Fast, reliable, and secure dependency management.](https://github.com/yarnpkg/yarn)
 - [`docz`: ✍🏻It has never been so easy to document your things!](https://github.com/pedronauck/docz)
