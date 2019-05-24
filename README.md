@@ -12,6 +12,7 @@ collect materials, like repos and papers, which may be utilized some day
 - [`imgui`: Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 ](https://github.com/ocornut/imgui)
 - [`unsplash`: Beautiful, free photos. Gifted by the world’s most generous community of photographers.](https://unsplash.com/)
+- [`TwentySecondsCurriculumVitae-LaTex`: Write Beautiful Curriculum Vitae in LaTex, that ensures twenty seconds reading](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex)
 ## Computer Networks
 - [`portus`: A congestion control plane.](https://github.com/ccp-project/portus)
 - [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
