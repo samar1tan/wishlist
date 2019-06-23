@@ -1,8 +1,5 @@
 # wishlist
 collect materials, like repos and papers, which may be utilized some day
-## Papers
-- [*Non-delusional Q-learning and Value Iteration*](papers/nondelusionalQ_nips18.pdf)
-- [*Reinforcement Learning, Fast and Slow*](papers/Reinforcement_Learning_Fast_and_Slow.pdf)
 ## *Curiosity*
 - [`Learning-SICP`: MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集](https://github.com/DeathKing/Learning-SICP)
 - [`Refactoring: Improving the Design of Existing Code, 2nd Edition`](https://book.douban.com/subject/30468597/)
