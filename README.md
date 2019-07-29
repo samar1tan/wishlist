@@ -24,6 +24,8 @@ collect materials, like repos and papers, which may be utilized some day
 - [`docz`: ✍🏻It has never been so easy to document your things!](https://github.com/pedronauck/docz)
 - [`docker_practice`: Learn and understand Docker technologies, with real DevOps practice! ](https://github.com/yeasy/docker_practice)
 - [`binderhub`: Run your code in the cloud, with technology so advanced, it feels like magic! ](https://github.com/jupyterhub/binderhub)
+- [`awesome-java`: A curated list of awesome frameworks, libraries and software for the Java programming language.
+](https://github.com/akullpp/awesome-java)
 ## Comprehensive Learning Resources
 - [`free-programming-books`: 📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [`awesome-education`: 学生福利-收集支持教育优惠的软件与服务](https://github.com/wowlusitong/awesome-education)
