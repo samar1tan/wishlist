@@ -27,6 +27,8 @@ collect materials, like repos and papers, which may be utilized some day
 - [`binderhub`: Run your code in the cloud, with technology so advanced, it feels like magic! ](https://github.com/jupyterhub/binderhub)
 - [`awesome-java`: A curated list of awesome frameworks, libraries and software for the Java programming language.
 ](https://github.com/akullpp/awesome-java)
+- [`The-Documentation-Compendium`: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+](https://github.com/kylelobo/The-Documentation-Compendium)
 ## Job Hunting
 - [`interview_internal_reference`: 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。](https://github.com/0voice/interview_internal_reference)
 ## Comprehensive Learning Resources
