@@ -15,7 +15,7 @@ collect materials, like repos and papers, which may be utilized some day
 - [`portus`: A congestion control plane.](https://github.com/ccp-project/portus)
 - [`netty`: an event-driven asynchronous network application framework](https://github.com/netty/netty)
 - [`oragono`: A modern IRC server (daemon/ircd) written in Go](https://github.com/oragono/oragono)
-## Big Data
+## Big Data & AI
 - [`awesome-spider`: 爬虫集合](https://github.com/facert/awesome-spider)
 - [`PlotNeuralNet`: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [`xgboost`: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow](https://github.com/dmlc/xgboost)
