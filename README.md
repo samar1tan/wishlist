@@ -19,6 +19,7 @@ collect materials, like repos and papers, which may be utilized some day
 - [`awesome-spider`: 爬虫集合](https://github.com/facert/awesome-spider)
 - [`PlotNeuralNet`: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [`xgboost`: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow](https://github.com/dmlc/xgboost)
+- [`wechat_callback`: 中国特色深度学习训练插件，使用微信监控并控制keras训练过程](https://github.com/QuantumLiu/wechat_callback)
 ## Dev Tools
 - [`yarn`: 📦🐈 Fast, reliable, and secure dependency management.](https://github.com/yarnpkg/yarn)
 - [`docz`: ✍🏻It has never been so easy to document your things!](https://github.com/pedronauck/docz)
