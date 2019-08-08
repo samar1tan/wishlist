@@ -26,6 +26,8 @@ collect materials, like repos and papers, which may be utilized some day
 - [`binderhub`: Run your code in the cloud, with technology so advanced, it feels like magic! ](https://github.com/jupyterhub/binderhub)
 - [`awesome-java`: A curated list of awesome frameworks, libraries and software for the Java programming language.
 ](https://github.com/akullpp/awesome-java)
+## Job Hunting
+- [`interview_internal_reference`: 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。](https://github.com/0voice/interview_internal_reference)
 ## Comprehensive Learning Resources
 - [`free-programming-books`: 📚 Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [`awesome-education`: 学生福利-收集支持教育优惠的软件与服务](https://github.com/wowlusitong/awesome-education)
